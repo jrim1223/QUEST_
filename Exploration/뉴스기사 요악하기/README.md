@@ -54,5 +54,5 @@ NameError                                 Traceback (most recent call last)
  
 ```
 
-
+요류부분 어떻게 손대야 되는지 잘 몰라서 리뷰를 잘 못 해드리겠네요 ㅠ 
 이상 입니다.
